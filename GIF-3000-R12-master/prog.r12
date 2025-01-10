@@ -1,0 +1,9 @@
+ld R0, R0, 3
+ld R1, R1, 4
+nop
+nop
+shri R2, R1, 6
+nop
+nop
+sd R2, R3, 0
+sd R0, R1, 0
